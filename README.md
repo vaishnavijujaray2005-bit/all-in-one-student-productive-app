@@ -140,3 +140,4 @@ UI/UX Designer | HCI Enthusiast | Engineering Student
 ## Project Status
 
 Completed UI/UX Design Case Study and Interactive Prototype.
+[View Interactive Prototype](https://www.figma.com/proto/your-link-here)
